@@ -12,7 +12,7 @@ title                    : "IsekaiAvalanche LightNovels / Sophia's Homepage"
 title_separator          : "-"
 name                     : &name "IsekaiAvalanche"
 description              : &description "A Journey Bout A High Schooler been Isekai'd to a fantasy world with 4 Dimensional Creator Skills"
-url                      : https://IsekaiAvalanche.github.io/DataCore/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://IsekaiAvalanche.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "IsekaiAvalanche/IsekaiAvalanche-LN.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
